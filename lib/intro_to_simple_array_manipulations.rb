@@ -8,6 +8,7 @@ def using_unshift(array = bouroughs_in_nyc, string = "Staten Island")
  bouroughs_in_nyc.unshift("Staten Island")
  end
  
+<<<<<<< HEAD
  def using_pop(array = continents)
    continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   using_pop = array.pop
@@ -57,3 +58,6 @@ end
   
   
   
+=======
+ def using_pop()
+>>>>>>> 52d0572fb3c8feef17eaf6990fbdf63d8a4841dd
